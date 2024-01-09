@@ -16,13 +16,13 @@ body{
     opacity: 0.75;
 }
 .header h1{
-    width: 60%;
+    width: 100%;
     background: linear-gradient(to top, #cecece 0%, #ffff 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 500;
-    font-size: 80px;
+    font-size: 100px;
     letter-spacing: -0.05em;
     line-height: 1;
 }
