@@ -1,2 +1,2 @@
 new readmem 
-hello guys <br> wellocome to my profile
+hello guys <br> wellcome to my profile
